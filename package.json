@@ -1,11 +1,11 @@
 {
-  "name": "betterlogs",
-  "version": "1.0.0",
-  "description": "colors for terminal/console",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sandeep-morya",
-  "license": "ISC"
+	"name": "better-logs",
+	"version": "1.0.0",
+	"description": "colors for terminal/console",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Sandeep-morya",
+	"license": "ISC"
 }

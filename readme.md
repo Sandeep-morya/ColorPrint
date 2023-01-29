@@ -1,14 +1,9 @@
 ## Make Your Logs Colorfull
 
-`black,red,blue,cyan,purple,white,yellow,green`
+- total colors-`black,red,blue,cyan,purple,white,yellow,green`
 
-### Total 8 Colors
 
-For use Just Clone this Repo inside your project
-&
-Import or require Cloned Folder
-
-- example:
+# Usage
   - `const betterLog =  require("./betterLogs")`
     // will print the instructions
   - `betterLog.manual()` -`betterLog.red(variable as argument)`
