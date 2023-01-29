@@ -4,6 +4,10 @@
 
 ### Total 8 Colors
 
-For To use Just Clone this Repo inside your project
+For use Just Clone this Repo inside your project
 &
 Import or require Cloned Folder
+
+- example:
+  `const bl = require("./betterLogs")`
+  `bl.manual()` // will print the instructions
