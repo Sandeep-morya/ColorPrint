@@ -9,5 +9,6 @@ For use Just Clone this Repo inside your project
 Import or require Cloned Folder
 
 - example:
-  `const bl = require("./betterLogs")`
-  `bl.manual()` // will print the instructions
+  - `const bl = require("./betterLogs")`
+  - `bl.manual()`
+    // will print the instructions
