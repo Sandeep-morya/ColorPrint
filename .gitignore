@@ -1,2 +1,3 @@
-./color.js
-./use.js
+.gitignore
+.color.js
+.use.js
