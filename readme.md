@@ -2,18 +2,18 @@
 
 - total colors-`black,red,blue,cyan,purple,white,yellow,green`
 
-
 # Usage
-  - `const betterLog =  require("./betterLogs")`
-    // will print the instructions
-  - `betterLog.manual()` -`betterLog.red(variable as argument)`
+
+- `const betterLog =  require("betterlog")`
+  // will print the instructions
+- `betterLog.manual()` -`betterLog.red(variable as argument)`
 
 ---
 
 note: instead of "const betterLog" you can use fancy names like 'log,print,color etc..'
 
 - example:
-  - `const print =  require("./betterLogs")`
+  - `const print =  require("betterlog")`
   - `print.manual()` -`print.red(any typeof variable as argument)`
 
 ## How it is differet From Chalk (npm package)

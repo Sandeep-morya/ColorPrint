@@ -1,11 +1,19 @@
 {
-	"name": "better-logs",
+	"name": "betterlog",
 	"version": "1.0.0",
-	"description": "colors for terminal/console",
+	"description": "- total colors-`black,red,blue,cyan,purple,white,yellow,green`",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Sandeep-morya",
-	"license": "ISC"
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sandeep-morya/betterLogs.git"
+	},
+	"author": "sandeep-maurya",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Sandeep-morya/betterLogs/issues"
+	},
+	"homepage": "https://github.com/Sandeep-morya/betterLogs#readme"
 }
