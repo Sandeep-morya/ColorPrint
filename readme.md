@@ -12,8 +12,19 @@ Import or require Cloned Folder
   - `const betterLog =  require("./betterLogs")`
   - `betterLog.manual()` -`betterLog.red(variable as argument)`
     // will print the instructions
-*****************************
+
+---
+
 note: instead of "const betterLog" you can use fancy names like 'log,print,color etc..'
+
 - example:
   - `const print =  require("./betterLogs")`
-  - `print.manual()` -`print.red(variable as argument)`
+  - `print.manual()` -`print.red(any typeof variable as argument)`
+
+## How it is differet From Chalk (npm package)
+
+- it does not return anything
+- you dont need to use console.log()
+- replacement for console.log()
+- accepts all type of data Type
+  -[string,number,boolean,array,object,Symbol,null,undefined]
