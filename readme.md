@@ -12,7 +12,7 @@ Import or require Cloned Folder
   - `const betterLog =  require("./betterLogs")`
   - `betterLog.manual()` -`betterLog.red(variable as argument)`
     // will print the instructions
-
+*****************************
 note: instead of "const betterLog" you can use fancy names like 'log,print,color etc..'
 - example:
   - `const print =  require("./betterLogs")`
