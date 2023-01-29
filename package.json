@@ -1,5 +1,5 @@
 {
-	"name": "betterlog",
+	"name": "betterlog-npm",
 	"version": "1.0.0",
 	"description": "- total colors-`black,red,blue,cyan,purple,white,yellow,green`",
 	"main": "index.js",

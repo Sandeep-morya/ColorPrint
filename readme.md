@@ -4,6 +4,9 @@
 
 # Usage
 
+install using
+`npm i betterlog-npm`
+
 - `const betterLog =  require("betterlog")`
   // will print the instructions
 - `betterLog.manual()` -`betterLog.red(variable as argument)`
