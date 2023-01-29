@@ -10,8 +10,8 @@ Import or require Cloned Folder
 
 - example:
   - `const betterLog =  require("./betterLogs")`
-  - `betterLog.manual()` -`betterLog.red(variable as argument)`
     // will print the instructions
+  - `betterLog.manual()` -`betterLog.red(variable as argument)`
 
 ---
 
@@ -26,5 +26,4 @@ note: instead of "const betterLog" you can use fancy names like 'log,print,color
 - it does not return anything
 - you dont need to use console.log()
 - replacement for console.log()
-- accepts all type of data Type
-  -[string,number,boolean,array,object,Symbol,null,undefined]
+- accepts all type of data Type -[string,number,boolean,array,object,Symbol,null,undefined]
