@@ -158,7 +158,7 @@ class BetterLogs extends Use {
 
 	/* Bold underline */
 
-	bgbreen(str) {
+	ubGreen(str) {
 		str = JSON.stringify(str);
 		str = colors.boldUnderlineColors.Green + str;
 		console.log(reset(str));

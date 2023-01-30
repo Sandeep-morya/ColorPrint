@@ -7,7 +7,7 @@
 install using
 `npm i betterlog-npm`
 
-- `const betterLog =  require("betterlog")`
+- `const betterLog =  require("betterlog-npm")`
   // will print the instructions
 - `betterLog.manual()` -`betterLog.red(variable as argument)`
 
@@ -16,7 +16,7 @@ install using
 note: instead of "const betterLog" you can use fancy names like 'log,print,color etc..'
 
 - example:
-  - `const print =  require("betterlog")`
+  - `const print =  require("betterlog-npm")`
   - `print.manual()` -`print.red(any typeof variable as argument)`
 
 ## How it is differet From Chalk (npm package)
