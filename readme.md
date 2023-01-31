@@ -5,18 +5,18 @@
 # Usage
 
 install using
-`npm i betterlog-npm`
+`npm i colorprint-js`
 
-- `const betterLog =  require("betterlog-npm")`
+- `const colorprint =  require("colorprint-js")`
   // will print the instructions
-- `betterLog.manual()` -`betterLog.red(variable as argument)`
+- `colorprint.manual()` -`colorprint.red(variable as argument)`
 
 ---
 
-note: instead of "const betterLog" you can use fancy names like 'log,print,color etc..'
+note: instead of "const colorprint" you can use fancy names like 'log,print,color etc..'
 
 - example:
-  - `const print =  require("betterlog-npm")`
+  - `const print =  require("colorprint-js")`
   - `print.manual()` -`print.red(any typeof variable as argument)`
 
 ## How it is differet From Chalk (npm package)
